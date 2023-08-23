@@ -16,7 +16,7 @@ O site é como as figuras abaixo mostram, exibindo uma tabela com informações 
 <p align="center">Tela inicial do site</p>
 
 <p align="center">
-  <img src="https://github.com/williangrleme/Dados-abertos/raw/main/imgs/incio.png" alt="Imagem">
+  <img src="https://github.com/williangrleme/Dados-abertos/raw/main/imgs/inicio.png" alt="Descrição da Imagem">
 </p>
 
 
