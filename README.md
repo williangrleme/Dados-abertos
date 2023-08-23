@@ -11,44 +11,28 @@ permitir filtragens nas pesquisas, caso necessário.
 
 
 ## Demonstração
+O site é como as figuras abaixo mostram, exibindo uma tabela com informações gerais sobre emendas do relator, tendo a possibilidade de filtrar as informações e gerar gráficos.
 
-![Texto Alternativo](https://github.com/williangrleme/Dados-abertos/raw/main/imgs/geral.png)
+<p align="center">Tela inicial do site</p>
 
-![Texto Alternativo](https://github.com/williangrleme/Dados-abertos/raw/main/imgs/geral2.png)
 <p align="center">
-  <img src="https://github.com/williangrleme/Dados-abertos/raw/main/imgs/geral3.png" alt="Texto Alternativo">
+  <img src="https://github.com/williangrleme/Dados-abertos/raw/main/imgs/incio.png" alt="Imagem">
 </p>
 
 
 
 
+
+
 ## Funcionalidades
+Os dados das emendas parlamentares são retirados da [Camara legislativa](https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-mistas/cmo/Indicacoes-para-execucao-orcamentaria-em-RP9_LOA-2022), pré-processados utilizando técnicas de mineração de dados, inseridos no nosso banco de dados, e exibidos na plataforma pré-citada, assim entregando as seguintes funções:
 
-- Temas dark e light
-- Preview em tempo real
-- Modo tela cheia
-- Multiplataforma
-
-
-## Feedback
-
-Se você tiver algum feedback, por favor nos deixe saber por meio de fake@fake.com
-
-
-## Aprendizados
-
-O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e como você superou-os?
-
-
-## Uso/Exemplos
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
+- __Exibir emendas do relator de forma geral__
+- __Exibir emendas do relator por autor__
+- __Exibir emendas do relator por estado__
+- __Exibir emendas do relator por ano__
+- __Exibir emendas do relator por estado e autor__
+- __Exibir emendas do relator por autor e ano__
 
 
 ## Documentação
@@ -57,9 +41,25 @@ O software em questão foi um trabalho desenvolvido por mim e meus colegas, dura
 Para o desenvolvimento da plataforma além do desenvolvimento do código fonte, foi utilizada de diversas técnicas de Engenharia de Software, Gerencia de projetos e Analise e desenvolvimento de projetos. Para tanto, foi desenvolvimento um documento com todos os diagramas e fundamentações teóricas para analisar a viabilidade do projeto e desenvolve-lo.
 Abaixo segue o link para acessar a documentação completa.
 
-### Documentação
-
 Você pode encontrar a documentação completa [aqui](https://github.com/williangrleme/Dados-abertos/blob/main/DocumentacaoFinal.pdf). :book:
+
+## Aprendizados
+
+Com esse projeto em questão, eu pude aprender diversas coisas que anteriormente tinha visto apenas na teoria, ou de forma enxuta. Aprendi várias técnicas e bons hábitos de programação web.
+
+Como parametrização do código para migração em outros bancos de dados, deixar o sistema genérico e independente, até mesmo a conexão de tudo com um banco de dados própio, assim com a conexão com um servidor.
+
+
+Aprendi também que, seguir a regra todo o esquema de Engenharia de Software desenvolvido para evitar possiveis complicações mais pra frente, respeitar o cronograma do proejeto.
+
+Enfim, depois de tantas matérias teóricas que tive na faculdade, essa foi uma que integrou todas e me ensinou várias lições de como é o mercado no "mundo real".
+
+## Acessar o projeto
+
+O nosso software esta hospedado online e é possivel acessa-lo de qualquer lugar.
+
+__[Clique aqui para acessar o projeto](http://82.180.139.132:4000)__
+
 
 ## Autores
 
@@ -68,4 +68,10 @@ Você pode encontrar a documentação completa [aqui](https://github.com/willian
 - [Adam Yoshida](https://github.com/adamyoshidas)
 - [Gustavo Shoji](https://github.com/GuShoji)
 - [Matheus Magalhães](https://github.com/MathMagal)
+
+
+## Feedback
+
+Se você tiver algum feedback, por favor nos deixe saber por [aqui](mailto:gusthavo_palm@hotmail.com).
+
 
