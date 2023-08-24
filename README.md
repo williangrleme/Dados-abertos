@@ -1,4 +1,4 @@
-[![Logo](https://github.com/williangrleme/Dados-abertos/raw/main/imgs/icon.png)
+![Logo](https://github.com/williangrleme/Dados-abertos/raw/main/imgs/icon.png)
 <h1 align="center">Dados Abertos</h1>
 
 
@@ -15,7 +15,12 @@ O site é como as figuras abaixo mostram, exibindo uma tabela com informações 
 
 <p align="center">Tela inicial do site</p>
 <p align="center">
-  <img src="https://github.com/williangrleme/Dados-abertos/raw/main/imgs/inicio.png" alt="Descrição da Imagem">
+  <img src="https://github.com/williangrleme/Dados-abertos/raw/main/imgs/inicio.png" alt="imagem">
+</p>
+
+<p align="center">Tabela geral de emendas do relator</p>
+<p align="center">
+  <img src="https://github.com/williangrleme/Dados-abertos/blob/main/imgs/geral.png" alt="imagem">
 </p>
 
 
@@ -74,4 +79,3 @@ __[Clique aqui para acessar o projeto](http://82.180.139.132:4000)__
 Se você tiver algum feedback, por favor nos deixe saber por [aqui](mailto:gusthavo_palm@hotmail.com).
 
 
-](https://github.com/williangrleme/Dados-abertos/blob/main/imgs/geral.png)https://github.com/williangrleme/Dados-abertos/blob/main/imgs/geral.png
