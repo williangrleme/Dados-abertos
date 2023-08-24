@@ -13,8 +13,7 @@ permitir filtragens nas pesquisas, caso necessário.
 ## Demonstração
 O site é como as figuras abaixo mostram, exibindo uma tabela com informações gerais sobre emendas do relator, tendo a possibilidade de filtrar as informações e gerar gráficos.
 
---<p align="center" style="font-size: 100px;">Tela inicial do site</p>--
-
+<p align="center">Tela inicial do site</p>
 <p align="center">
   <img src="https://github.com/williangrleme/Dados-abertos/raw/main/imgs/inicio.png" alt="Descrição da Imagem">
 </p>
