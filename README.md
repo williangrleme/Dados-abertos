@@ -13,6 +13,11 @@ permitir filtragens nas pesquisas, caso necessário.
 ## Demonstração
 O site é como as figuras abaixo mostram, exibindo uma tabela com informações gerais sobre emendas do relator, tendo a possibilidade de filtrar as informações e gerar gráficos.
 
+<p align="center">Legenda de elementos</p>
+<p align="center">
+  <img src="https://github.com/williangrleme/Dados-abertos/blob/main/imgs/legenda.png" alt="imagem">
+</p>
+
 <p align="center">Tela inicial do site</p>
 <p align="center">
   <img src="https://github.com/williangrleme/Dados-abertos/raw/main/imgs/inicio.png" alt="imagem">
@@ -30,7 +35,7 @@ O site é como as figuras abaixo mostram, exibindo uma tabela com informações 
 
 <p align="center">Tabela geral de emendas por autor</p>
 <p align="center">
-  <img src="https://github.com/williangrleme/Dados-abertos/blob/main/imgs/porAuttor.png" alt="imagem">
+  <img src="https://github.com/williangrleme/Dados-abertos/blob/main/imgs/porAutor.png" alt="imagem">
 </p>
 
 <p align="center">Tabela geral de emendas por autor e ano</p>
@@ -53,6 +58,19 @@ O site é como as figuras abaixo mostram, exibindo uma tabela com informações 
   <img src="https://github.com/williangrleme/Dados-abertos/blob/main/imgs/porOrgao.png" alt="imagem">
 </p>
 
+<p align="center">Gráfico de quantiade de processos </p>
+<p align="center">
+  <img src="https://github.com/williangrleme/Dados-abertos/blob/main/imgs/GraficoDeQuantidade.png" alt="imagem">
+</p>
+
+<p align="center">Gráfico de valores de processos </p>
+<p align="center">
+  <img src="https://github.com/williangrleme/Dados-abertos/blob/main/imgs/GraficodeValor.png" alt="imagem">
+</p>
+
+
+
+
 
 
 
@@ -60,7 +78,7 @@ O site é como as figuras abaixo mostram, exibindo uma tabela com informações 
 
 
 ## Funcionalidades
-Os dados das emendas parlamentares são retirados da [Camara legislativa](https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-mistas/cmo/Indicacoes-para-execucao-orcamentaria-em-RP9_LOA-2022), pré-processados utilizando técnicas de mineração de dados, inseridos no nosso banco de dados, e exibidos na plataforma pré-citada, assim entregando as seguintes funções:
+Os dados das emendas parlamentares são retirados da [Camara legislativa](https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-mistas/cmo/Indicacoes-para-execucao-orcamentaria-em-RP9_LOA-2022), pré-processados utilizando técnicas de filtragem de dados, inseridos no nosso banco de dados, e exibidos na plataforma pré-citada, assim entregando as seguintes funções:
 
 - __Exibir emendas do relator de forma geral__
 - __Exibir emendas do relator por autor__
