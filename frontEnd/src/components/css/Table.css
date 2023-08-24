@@ -1,0 +1,42 @@
+td{
+    max-width: 50px !important;
+}
+
+.cell-truncate {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  .autosuggest-container {
+    position: relative;
+   margin-bottom: 10px;
+  }
+  
+  .autosuggest-suggestions-container {
+    position: relative;
+    top: 100%;
+    z-index: 1;
+    background-color: rgba(36,39,41,255);
+    color: white;
+  }
+
+ .titulo{
+    color: rgb(238, 238, 238) !important;
+  }
+  
+  body{
+    background-color: #181a1b;
+  }
+
+  .botao{
+    color: white !important;
+    background-color: rgba(36,39,41,255) !important;
+    border-color: rgba(16, 16, 16, 0.39);
+    border-radius: 10px;
+  }
+
+.select{
+  background-color: #242729;
+}
+  

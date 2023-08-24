@@ -1,0 +1,30 @@
+.nav-topo{
+    display:flex;
+    width: 100%;
+    height: 40px;
+    background-color: #1c1e1f;
+}
+
+.logo{
+    max-width: 105px;
+}
+
+.link-especial{
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 16px;
+    text-decoration: none;
+    padding:8px;
+}
+
+.link-especial:hover{
+    color: #161616;
+    text-decoration: none;
+    background: #eeee;
+    border-radius:20px;
+}
+
+.mdi-web{
+    font-size:20px;
+    font-weight: 500;
+}
