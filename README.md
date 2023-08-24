@@ -23,6 +23,37 @@ O site é como as figuras abaixo mostram, exibindo uma tabela com informações 
   <img src="https://github.com/williangrleme/Dados-abertos/blob/main/imgs/geral.png" alt="imagem">
 </p>
 
+<p align="center">Tabela de emendas por ano</p>
+<p align="center">
+  <img src="https://github.com/williangrleme/Dados-abertos/blob/main/imgs/porAno.png" alt="imagem">
+</p>
+
+<p align="center">Tabela geral de emendas por autor</p>
+<p align="center">
+  <img src="https://github.com/williangrleme/Dados-abertos/blob/main/imgs/porAutor.png" alt="imagem">
+</p>
+
+<p align="center">Tabela geral de emendas por autor e ano</p>
+<p align="center">
+  <img src="https://github.com/williangrleme/Dados-abertos/blob/main/imgs/porAutorAno.png" alt="imagem">
+</p>
+
+<p align="center">Tabela geral de emendas por estado</p>
+<p align="center">
+  <img src="https://github.com/williangrleme/Dados-abertos/blob/main/imgs/porEstado.png" alt="imagem">
+</p>
+
+<p align="center">Tabela geral de emendas por estado e autor</p>
+<p align="center">
+  <img src="https://github.com/williangrleme/Dados-abertos/blob/main/imgs/porEstadoAutor.png" alt="imagem">
+</p>
+
+<p align="center">Tabela geral de emendas por orgao</p>
+<p align="center">
+  <img src="https://github.com/williangrleme/Dados-abertos/blob/main/imgs/porOrgao.png" alt="imagem">
+</p>
+
+
 
 
 
