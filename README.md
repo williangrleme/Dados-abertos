@@ -35,7 +35,7 @@ O site é como as figuras abaixo mostram, exibindo uma tabela com informações 
 
 <p align="center">Tabela geral de emendas por autor</p>
 <p align="center">
-  <img src="https://github.com/williangrleme/Dados-abertos/blob/main/imgs/porAutor.png" alt="imagem">
+  <img src="https://github.com/williangrleme/Dados-abertos/blob/main/imgs/porAuttor.png" alt="imagem">
 </p>
 
 <p align="center">Tabela geral de emendas por autor e ano</p>
