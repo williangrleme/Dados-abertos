@@ -9,6 +9,9 @@ fácil compreensão e mais acessíveis.
 O site deve fornecer os dados de forma acessível e de fácil compreensão, além de
 permitir filtragens nas pesquisas, caso necessário.
 
+## Apresentação
+Você pode conferir o resumo do funcionamento do projeto em uma apresentação rápida elaborada, clicando [aqui](https://github.com/williangrleme/Dados-abertos/blob/main/Apresentacao.pdf).
+
 
 ## Demonstração
 O site é como as figuras abaixo mostram, exibindo uma tabela com informações gerais sobre emendas do relator, tendo a possibilidade de filtrar as informações e gerar gráficos.
